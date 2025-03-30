@@ -1,0 +1,7 @@
+require("plugins.lazy")
+require("plugins.colorscheme")
+require("plugins.treesitter")
+require("plugins.cmp")
+require("plugins.lualine")
+require("plugins.dadbod")  
+require("plugins.mason")
